@@ -2,6 +2,6 @@ package disappear
 
 import "fmt"
 
-func dis() {
+func Dis() {
 	fmt.Println("ddd")
 }
